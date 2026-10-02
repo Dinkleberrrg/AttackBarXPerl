@@ -1,21 +1,21 @@
 # AttackBarXPerl
 
-Kleines Zusatz-Addon für WoW 1.12 (OctoWoW), das die Swing-Timer von [AttackBar](https://github.com/Siventt/AttackBar) optisch an die X-Perl-Unitframes anpasst.
+Small add-on for WoW 1.12 (OctoWoW) that restyles the swing timers of [AttackBar](https://github.com/Siventt/AttackBar) to match the X-Perl unit frames.
 
-## Was es macht
-- Entfernt den grauen Kasten, den Tooltip-Rand und den dicken CastingBar-Rahmen von AttackBar.
-- Übernimmt XPerls Balkentextur und die Breite der Unitframes.
-- Heftet die Spieler- und Gegnerleiste direkt unter die XPerl-Frames.
+## What it does
+- Removes AttackBar's grey box, tooltip border and thick casting bar border.
+- Uses X-Perl's bar texture and the width of the unit frames.
+- Docks the player and enemy bars directly below the X-Perl frames.
 
-## Voraussetzungen
+## Requirements
 - AttackBar
 - XPerl (X-Perl UnitFrames)
 
-## Einstellungen
-Es gibt kein Menü. Höhe, Abstände, Schriftgröße und Textur stehen als Konstanten oben in `AttackBarXPerl.lua`.
+## Settings
+There is no menu. Height, spacing, font size and texture are constants at the top of `AttackBarXPerl.lua`.
 
-## Hinweis
-`XPerl_SwingTimer` ist der eigenständige Nachfolger und braucht AttackBar nicht mehr. Beide gleichzeitig zu nutzen ergibt doppelte Leisten.
+## Note
+`XPerl_SwingTimer` is the standalone successor and no longer needs AttackBar. Using both at the same time gives duplicate bars.
 
-## Entfernen
-Ordner löschen.
+## Removal
+Delete the folder.
