@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: AttackBar an XPerl andocken
+## Notes: Verkleinert AttackBars Swing-Timer und heftet sie unter die XPerl-Unitframes.
+## Dependencies: AttackBar
+## Version: 1.0
+
+AttackBarXPerl.lua
