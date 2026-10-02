@@ -2,7 +2,7 @@
 ## Title: AttackBar for X-Perl
 ## Notes: Shrinks AttackBar's swing timers and docks them below the X-Perl unit frames.
 ## Dependencies: AttackBar
-## Version: 1.0
+## Version: 1.0.0
 ## Author: Dinkleberrrg
 
 AttackBarXPerl.lua
